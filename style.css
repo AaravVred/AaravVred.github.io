@@ -11,7 +11,7 @@ img {
   }
   
   body {
-    background: linear-gradient(to right, slateblue, lightblue);
+    background: linear-gradient(to left, slateblue, lightblue);
     font-family: 'TrebuchetMS';
     color: white;
     text-align: center;
